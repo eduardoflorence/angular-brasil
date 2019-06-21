@@ -1,5 +1,3 @@
-# README
-
 # Angular Brasil
 Pacote de extensões para desenvolvedores Angular que utilizam Visual Studio Code
 
