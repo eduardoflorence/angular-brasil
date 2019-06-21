@@ -2,4 +2,4 @@
 .vscode-test/**
 .vscodeignore
 vsc-extension-quickstart.md
-angular-brasil-0.0.1.vsix
+angular-brasil*.vsix
