@@ -1,0 +1,45 @@
+{
+    "name": "angular-brasil",
+    "displayName": "Angular Brasil",
+    "description": "Pacote de extensões para desenvolvedores Angular que utilizam Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "eduardoflorence",
+    "icon": "angular.png",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eduardoflorence/angular-brasil"
+    },
+    "author": "Eduardo Florence <eduardo@infolink.com.br> (https://github.com/eduardoflorence)",
+    "keywords": [
+        "Angular",
+        "Angular 2",
+        "Angular 4",
+        "Angular 5",
+        "Angular 6",
+        "Angular 7",
+        "Angular 8"
+    ],
+    "extensionPack": [ 
+        "Mikael.Angular-BeastCode",
+        "johnpapa.Angular2",
+        "Angular.ng-template",
+        "nrwl.angular-console",
+        "cyrilletuzi.angular-schematics",
+        "natewallace.angular2-inline",
+        "infinity1207.angular2-switcher",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "christian-kohler.path-intellisense",
+        "aaron-bond.better-comments",
+        "philsinatra.nested-comments",
+        "msjsdiag.debugger-for-chrome",
+        "Equinusocio.vsc-material-theme",
+        "PKief.material-icon-theme",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}
