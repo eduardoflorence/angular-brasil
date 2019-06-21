@@ -1,12 +1,15 @@
 {
     "name": "angular-brasil",
-    "displayName": "Angular Brasil",
+    "displayName": "AngularBrasil",
     "description": "Pacote de extensões para desenvolvedores Angular que utilizam Visual Studio Code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "eduardoflorence",
     "icon": "angular.png",
     "engines": {
         "vscode": "^1.35.0"
+    },
+    "scripts": {
+        "publish": "vsce package"
     },
     "categories": [
         "Extension Packs"
