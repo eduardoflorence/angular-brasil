@@ -4,6 +4,9 @@ Todas as alterações importantes no pacote de extensão "angular-brasil" serão
 
 O formato é baseado em [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) e este projeto adere ao [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.0.5] - 2019-06-25
+### Correção
+- Ajustes visuais para marketplace
 ## [0.0.4] - 2019-06-21
 ### Adicionado
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)

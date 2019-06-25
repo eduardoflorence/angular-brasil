@@ -2,7 +2,7 @@
     "name": "angular-brasil",
     "displayName": "AngularBrasil",
     "description": "Pacote de extensões para desenvolvedores Angular que utilizam Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "eduardoflorence",
     "icon": "angular.png",
     "engines": {
@@ -14,10 +14,17 @@
     "categories": [
         "Extension Packs"
     ],
+    "galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
     "repository": {
         "type": "git",
         "url": "https://github.com/eduardoflorence/angular-brasil"
     },
+    "bugs": {
+		"url": "https://github.com/eduardoflorence/angular-brasil/issues"
+	},
     "author": "Eduardo Florence <eduardo@infolink.com.br> (https://github.com/eduardoflorence)",
     "keywords": [
         "Angular Brasil",
